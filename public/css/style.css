@@ -1,0 +1,66 @@
+p.text-muted.mt-3.website-info {
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -moz-box;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-clamp: 2;
+    box-orient: vertical;
+}
+
+li.mb-2.line-clamp {
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -moz-box;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-clamp: 2;
+    box-orient: vertical;
+}
+
+li.line-clamp {
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -moz-box;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-clamp: 2;
+    box-orient: vertical;
+}
+li.line-clamp{
+    height: 40px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -moz-box;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-clamp: 2;
+    box-orient: vertical;
+}
+.dropify-wrapper {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    height: 110px;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #777;
+    background-color: #FFF;
+    background-image: none;
+    text-align: center;
+    border: 2px solid #E5E5E5;
+    -webkit-transition: border-color .15s linear;
+    transition: border-color .15s linear;
+}
+
